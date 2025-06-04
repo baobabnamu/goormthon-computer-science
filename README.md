@@ -26,6 +26,9 @@
   - Network
     - 네트워크 개론부터 실무에서 사용되는 용어까지 폭넓게 정리합니다.
   
+  - Database
+    - RDB부터 NoSQL 등 면접에서 자주 출제되는 질문 위주로 정리합니다.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
